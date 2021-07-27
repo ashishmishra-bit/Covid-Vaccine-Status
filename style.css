@@ -20,11 +20,36 @@ height: 184px;
 left: 140px;
 top: 267px;
 
-font-family: 'Raleway', sans-serif;
+font-family: 'Baloo Chettan 2';
 font-style: normal;
 font-weight: 800;
 font-size: 56px;
 line-height: 66px;
 
 color: #000000;
+}
+.rect {
+position: absolute;
+width: 132px;
+height: 39px;
+left: 668px;
+top: 97px;
+
+background: #FF9A61;
+border-radius: 20px;
+}
+.rectext {
+    position: absolute;
+width: 113px;
+height: 36px;
+left: 681px;
+top: 100px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 26px;
+line-height: 30px;
+
+color: #FFFFFF;
 }
