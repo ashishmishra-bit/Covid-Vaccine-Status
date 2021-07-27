@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,300;0,400;0,500;1,400&display=swap');
+
 main
 {position: absolute;
 width: 1340px;
@@ -12,13 +14,13 @@ border-radius: 15px;
 }
 
 h2 {
-    position: absolute;
+position: absolute;
 width: 460px;
 height: 184px;
 left: 140px;
 top: 267px;
 
-font-family: Raleway;
+font-family: 'Raleway', sans-serif;
 font-style: normal;
 font-weight: 800;
 font-size: 56px;

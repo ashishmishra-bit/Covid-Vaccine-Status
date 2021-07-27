@@ -9,6 +9,8 @@ m = today.getMonth() + 1;
 y = today.getFullYear();
 today = `${d}-${m}-${y}`;
 
+
+
 function cowinData(pincode) {
   let url = `https://cdn-api.co-vin.in/api/v2/appointment/sessions/public/findByPin?pincode=${pincode}&date=${today}`;
   const xhr = new XMLHttpRequest();
